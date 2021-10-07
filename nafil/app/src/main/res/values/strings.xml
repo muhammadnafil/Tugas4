@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Aplikasi Polije Nafil</string>
+    <string name="ucapan_selamat_datang">Di Aplikasi Politeknik Negeri Jember</string>
+    <string-array name="major">
+        <item>Produksi Pertanian</item>
+        <item>Teknologi Pertanian</item>
+        <item>Peternakan</item>
+        <item>Manajemen Agribisnis</item>
+        <item>Teknologi Informasi</item>
+        <item>Bahasa, Komunikasi dan Pariwisata</item>
+        <item>Kesehatan</item>
+        <item>Teknik</item>
+        <item>Kelas Internasional</item>
+    </string-array>
+</resources>
